@@ -10,9 +10,9 @@ The goal of the analysis is to identify the most important features of houses th
 
 I apply data cleaning, data manipulation, data visualization, and various statistical analysis methods - more specifically:
 
-1. Explore data and understand what the fields mean.
-2. Examine the relationships between the sales price and other features in the dataset. Use data visualization techniques to help you gain intuitive understanding of the relationships.
-3. Make informed guess on which features should be investigated in depth.
+1. Exploration of data and understanding what the fields mean.
+2. Examination of the relationships between the sales price and other features in the dataset with data visualization techniques.
+3. Informed guesses on which features should be investigated in depth.
 4. Data cleaning & manipulation.
 5. Presentation of findings in statistical summary and/or data visualizations.
 
